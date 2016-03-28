@@ -20,8 +20,8 @@ h1 {
 }
 .logo{
   position: absolute;
-    left: 5px;
-    bottom: 5px;
+    left: 1px;
+    bottom: 1px;
   width: 150px;
   height: 150px;
 }
